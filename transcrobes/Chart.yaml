@@ -1,0 +1,9 @@
+description: A Kubernetes Helm Chart for installing Transcrobes
+home: https://transcrob.es
+keywords:
+- Transcrobes
+- transcrob.es
+name: transcrobes
+sources:
+- https://gitlab.com/transcrobes/charts
+version: 0.0.12

@@ -1,9 +1,9 @@
 apiVersion: v1
 entries:
   transcrobes:
-  - created: "2019-06-26T14:27:33.470620756Z"
+  - created: "2019-08-06T10:55:23.973086473+07:00"
     description: A Kubernetes Helm Chart for installing Transcrobes
-    digest: 2dda639c192753e74b0a4e52a85433910bf776b1d1223fe568aed395901eead2
+    digest: 6ad4881de40234a5458e46e33779c289edb8d8e7ea19e3cab2a521cca671cf1b
     home: https://transcrob.es
     keywords:
     - Transcrobes
@@ -12,45 +12,6 @@ entries:
     sources:
     - https://gitlab.com/transcrobes/charts
     urls:
-    - http://chartstest.melser.org/transcrobes-0.0.12.tgz
+    - transcrobes-0.0.12.tgz
     version: 0.0.12
-  - created: "2019-06-26T14:27:33.482477549Z"
-    description: A Kubernetes Helm Chart for installing Transcrobes
-    digest: 0ded135114ceafc8fac881d781ce83372c8ae1213c678f173114d5956c3a0ede
-    home: https://transcrob.es
-    keywords:
-    - Transcrobes
-    - transcrob.es
-    name: transcrobes
-    sources:
-    - https://gitlab.com/transcrobes/charts
-    urls:
-    - http://chartstest.melser.org/transcrobes-0.0.6.tgz
-    version: 0.0.6
-  - created: "2019-06-26T14:27:33.478523861Z"
-    description: A Kubernetes Helm Chart for installing Transcrobes
-    digest: 6388cf653c9826f1b187edbcdcd91ec367c2d75df62f7cf2e202c7009441fb3f
-    home: https://transcrob.es
-    keywords:
-    - Transcrobes
-    - transcrob.es
-    name: transcrobes
-    sources:
-    - https://gitlab.com/transcrobes/charts
-    urls:
-    - http://chartstest.melser.org/transcrobes-0.0.5.tgz
-    version: 0.0.5
-  - created: "2019-06-26T14:27:33.473904005Z"
-    description: A Kubernetes Helm Chart for installing Transcrobes
-    digest: 07fe8c9e3dcfbda8e040e678721dd438c4c89dd6fd62bf9430dc86f6c73f88e0
-    home: https://transcrob.es
-    keywords:
-    - Transcrobes
-    - transcrob.es
-    name: transcrobes
-    sources:
-    - https://gitlab.com/transcrobes/charts
-    urls:
-    - http://chartstest.melser.org/transcrobes-0.0.4.tgz
-    version: 0.0.4
-generated: "2019-06-26T14:27:33.466442753Z"
+generated: "2019-08-06T10:55:23.97083733+07:00"
